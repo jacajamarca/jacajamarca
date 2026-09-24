@@ -3,9 +3,7 @@
 Ingeniero de formación y apasionado por la tecnología, la inteligencia artificial y el desarrollo de software. Actualmente me encuentro fortaleciendo mi perfil técnico a través del tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el SENA y completando formación práctica en electrónica en el **Instituto CENCAC** de Cali.
 
 Creencia fundamental: **El aprendizaje continuo es el motor de la innovación.**
-
 ---
-
 ### 🛠️ Lo que estoy haciendo actualmente
 - 🔭 **I’m currently working on:** Proyectos de desarrollo de software enfocados en lógica de programación, bases de datos y arquitectura de sistemas.
 - 🌱 **I’m currently learning:** Programación con Python, desarrollo de software en la tecnología ADSO y fundamentos de electrónica aplicada en CENCAC.
