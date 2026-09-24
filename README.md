@@ -12,7 +12,7 @@ Creencia fundamental: **El aprendizaje continuo es el motor de la innovación.**
 - 👯 **I’m looking to collaborate on:** Proyectos de código abierto (Open Source), desarrollo de aplicaciones web y proyectos que integren software con inteligencia artificial.
 - 🤔 **I’m looking for help with:** Optimización avanzada de algoritmos y buenas prácticas en arquitectura de software.
 - 💬 **Ask me about:** Programación, inteligencia artificial, tecnología, hábitos de alto rendimiento o entrenamiento físico.
-- 📫 **How to reach me:** [jacajamarca@live.com](mailto:jacajamarca@live.com) | [LinkedIn](https://www.linkedin.com/)
+- 📫 **How to reach me:** [jacajamarca@live.com](mailto:jacajamarcav@gmail.com) | [LinkedIn](https://www.linkedin.com/in/javier-cajamarca-5939a0439 )
 - 😄 **Pronouns:** Él / He / Him
 - ⚡ **Fun fact:** Me apasiona el deporte para mantener la mente enfocada y la disciplina alta; practico calisthenics, fútbol, running y ciclismo.
 
